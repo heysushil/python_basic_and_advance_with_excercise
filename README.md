@@ -1,8 +1,13 @@
 # Python Basic aur Advance excercise ke sath (पाइथान बेसिक और अड्वान्स कान्सेप्ट उद्धारण के साथ)
 
-इस फ़ोल्डर मे आप को पाइथान के बेसिक और अड्वान्स कान्सेप्ट समझने को मिलेगा । साथ ही इसमे उद्धारण भी है जो की कान्सेप्ट को समझने मे और आसानी करेंगे । 
+## शुरू करने से पहले कुछ जानकारिया -
 
-You will get to understand basic of python and advance of python with easy to understand code with good comment lines which helps you to understand the line of code easyly.
+1. [थियोरी कंटेन्ट](https://www.w3schools.com/python/default.asp)
+2. [पाइथान का वर्ज़न 3.8.2 32 बिट](https://www.python.org/ftp/python/3.8.2/python-3.8.2.exe)
+3. [एडिटर Microsoft VS Code](https://code.visualstudio.com/)
+4. [GitHub Repository](https://github.com/heysushil/python_basic_and_advance_with_excercise)
+
+इस फ़ोल्डर मे आप को पाइथान के बेसिक और अड्वान्स कान्सेप्ट समझने को मिलेगा । साथ ही इसमे उद्धारण भी है जो की कान्सेप्ट को समझने मे और आसानी करेंगे ।
 
 ## रीपाज़टॉरी या फ़ोल्डर का स्ट्रक्चर कैसा है एक बार समझ लो -
 
