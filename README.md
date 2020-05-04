@@ -15,4 +15,4 @@ You will get to understand basic of python and advance of python with easy to un
 
 "साथ ही अगर आप का कोई सुझाव या बदलाव हो तो आप जरूर बताओ। "
 
-![hey kya karu python training](https://github.com/heysushil/python_basic_and_advance_with_excercise/blob/master/other/hey_kya_karu_python_training.jpg)
+![hey kya karu python training](https://github.com/heysushil/python_basic_and_advance_with_excercise/blob/master/other/python-training-with-example.gif)
