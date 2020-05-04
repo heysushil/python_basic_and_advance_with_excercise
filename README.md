@@ -14,3 +14,5 @@ You will get to understand basic of python and advance of python with easy to un
 4. advance_excercise - इसमे पाइथान के अड्वान्स उद्धारण की फाइल हैं । 
 
 "साथ ही अगर आप का कोई सुझाव या बदलाव हो तो आप जरूर बताओ। "
+
+![hey kya karu python training](https://github.com/heysushilpython_basic_and_advance_with_excercise/other/hey kya karu python training.jpg)
