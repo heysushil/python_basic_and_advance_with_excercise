@@ -7,11 +7,17 @@
 # 2. PHP Projects प्लेलिस्ट https://www.youtube.com/playlist?list=PLK6wiPavf7QiEj6IPc3lkjz1wR4w9RM6B
 # 3. GitHubट्यूटोरियल प्लेलिस्ट  https://www.youtube.com/watch?v=LUyVs2MTlTM&list=PLK6wiPavf7Qjydpc5v-hdIoqCx2V19pHP
 
-'''
-Python langauge ko sikhna aasan hai
-sabse pahle system setup jarur kar lo
+print('\n\n17 > 9 =>',17 > 9)
 
-agar github se code le rahe ho to readme.md file me setup links hai waha se software ko download karo aur install karo.
+# == & ===  exm => 5 === 5
+print('\n\n5 == 15', 5 == 15)
 
-system ko setup karne ke baad sequesnce se sare practice follow karo video ke sath
-'''
+
+# int() float()
+print('\n\n',bool(False))
+print('\n\n',bool(0))
+print('\n\n',bool(''))
+
+print('\n\n',bool([]))
+print('\n\n',bool(()))
+print('\n\n',bool({}))
