@@ -3,7 +3,9 @@
 ## शुरू करने से पहले कुछ जानकारिया -
 
 1. [थियोरी कंटेन्ट](https://www.w3schools.com/python/default.asp)
-2. [पाइथान का वर्ज़न 3.8.2 32 बिट](https://www.python.org/ftp/python/3.8.2/python-3.8.2.exe)
+2. [पाइथान का वर्ज़न 3.8.2 32 बिट - Window](https://www.python.org/ftp/python/3.8.2/python-3.8.2.exe)
+3. [Python - Linux](https://www.python.org/downloads/source/)
+4. [Python - IOS](https://www.python.org/downloads/mac-osx/)
 3. [एडिटर Microsoft VS Code](https://code.visualstudio.com/)
 4. [GitHub Repository](https://github.com/heysushil/python_basic_and_advance_with_excercise)
 
