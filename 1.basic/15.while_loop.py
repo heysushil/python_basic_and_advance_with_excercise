@@ -7,3 +7,31 @@
 # 2. PHP Projects प्लेलिस्ट https://www.youtube.com/playlist?list=PLK6wiPavf7QiEj6IPc3lkjz1wR4w9RM6B
 # 3. GitHubट्यूटोरियल प्लेलिस्ट  https://www.youtube.com/watch?v=LUyVs2MTlTM&list=PLK6wiPavf7Qjydpc5v-hdIoqCx2V19pHP
 
+'''
+loop
+    while
+    for
+
+not do_while
+
+loop:
+    start i = 1
+    end 1000 = i < 1001
+    incre/dec i++ = pre-increment / post-increment i--
+'''
+
+i = 7
+while i <= 5:
+    
+    i += 1
+    if i == 4:
+        # break use kaarne pe jaha condition sahi mili wahi stop ho jayega
+        # break
+        # continue jaha condtion sahi mili use hata ke aage badh jayega
+        continue
+
+    print('I value: ',i)
+else:
+    print('While loop end')
+
+
