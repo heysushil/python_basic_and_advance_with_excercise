@@ -54,4 +54,4 @@ Excercise:
 1. ek program bano jisme ki normal function ko 2 value recive karoa aur function body ke andar lambada function create karo jisme normal function ke 2no argument ka sum pass karo aur last me lambada argument aur normal function ke result ka sum print karo.
 
 2. lambada function create karn a hai aur user name ko print karan hain.
-''
+'''
