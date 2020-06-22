@@ -1,9 +1,10 @@
-# अगर डेवलपमेंट फील्ड मे आना चाहते हो और समझ नहीं आ रहा है की कैसे क्या करू को तो मुझे कान्टैक्ट कर सकते हो heykyakaru@gmail.com पर और मैं कोसिस करूंगा सही गाइड करने की। क्योंकी बिना सही गाइड के कई बार हम काफी परेसान हो जाते हैं की क्या करे और कैसे करे और इससी चक्कर मे काफी समय और पैसे की बर्बादी कर देते हैं। इसके बाद काफी मानसिक तनाव का भी सामना करना पड़ता हैं तो इसी परेसानी को कम करने का छोटा सा प्रयास हैं। 
+# WELCOME TO HEY KYA KARU. DON'T FORGET TO SUBSCRIBE CHANEL TO GET NEW UPDATES - https://www.youtube.com/channel/UCphs2JfmIClR62wbyf76HDg
 
-# साथ ही अपने ज्ञान को आपके साथ बांटने के लिए यूट्यूब चैनल शुरू किया हूँ और आपके साहियोग की जरूरत है इसे सही और जरूरत मंद स्टूडेंट्स और जो खुद से पढ़ पढ़ना चाहते हैं उन तक पहुचाने के लिए तो इस चैनल को उनके साथ जरूर शेयर करो जो वाकई मे पढ़ना चाहते है और खुद से कोसिस कर रहे हैं। 
-# https://www.youtube.com/channel/UCphs2JfmIClR62wbyf76HDg
+# Contact for: College Project | Project Reporting | Documentation | Project Training | Website Development | SEO @ heykyakaru@gmail.com
 
-# HEY KYA KARU यूट्यूब चैनल के जरूरी लिंक 
+# मैं अनलाइन ट्रैनिंग भी देता हु तो अगर किसी को अनलाइन ट्रैनिंग करनी है तो मुझे कान्टैक्ट कर सकता है heykyakaru@gmail.com पर।
+
+# HEY KYA KARU यूट्यूब के जरूरी लिंक 
 # 1. Python Basic and Advance ट्यूटोरियल प्लेलिस्ट https://www.youtube.com/playlist?list=PLK6wiPavf7QikS9PMYrGZXz1HlE1KZLD3
 # 2. PHP Projects प्लेलिस्ट https://www.youtube.com/playlist?list=PLK6wiPavf7QiEj6IPc3lkjz1wR4w9RM6B
 # 3. GitHubट्यूटोरियल प्लेलिस्ट  https://www.youtube.com/watch?v=LUyVs2MTlTM&list=PLK6wiPavf7Qjydpc5v-hdIoqCx2V19pHP
@@ -14,12 +15,53 @@
 '''
 Topics
 '''
+'''
+for loop using iter and next at backgournd to run this loop
+'''
+listval = ['a','b','c','d']
+for i in listval:
+    print('i => ',i)
 
 # Python Iterators: __iter__() and __next__()
+iterval = iter(listval)
+print('\n\nUsing iterval')
+print(next(iterval))
+print(next(iterval))
+print(next(iterval))
+print(next(iterval))
+# print(next(iterval))
+
 # Iterator vs Iterable
+
 # Looping Through an Iterator
 # Create an Iterator
+class Number:
+    def __iter__(self):
+        self.a = 1
+        return self
+
+    def __next__(self):
+        if self.a <= 10:
+            n = self.a
+            self.a += 1
+            return n
+        else:
+            raise StopIteration
+
+nextnum = Number()
+mynum = iter(nextnum)
+
+# print(next(mynum))
+for i in mynum:
+    print(i)
+
 # StopIteration
+
+'''
+Exc:
+
+1. aap ek loop creat karo useing iter and next.
+'''
 
 
 
