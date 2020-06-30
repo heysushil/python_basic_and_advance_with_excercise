@@ -50,11 +50,3 @@ Example:
 -------------------------------------------
 1   username    useremail            
 '''
-
-
-
-'''
-More then 1 version of python
-PIP library
-
-'''

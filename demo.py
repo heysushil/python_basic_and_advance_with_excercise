@@ -60,3 +60,18 @@ Array:
 '''
 
 print("Hello Vivek")
+
+
+
+'''
+Web Desining:
+
+    Photoshop:
+        Layout: PSD File
+
+    HTML: 
+    CSS:
+        Bootstrap: ye css ki libaray hai
+    JavaScript:
+        JQuery: ye javascript ke libarya hai    
+'''
