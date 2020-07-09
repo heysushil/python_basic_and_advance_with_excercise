@@ -11,29 +11,66 @@
 # 5. Tips and Trick for Development: https://www.youtube.com/watch?v=vPL6ODrfcwI&list=PLK6wiPavf7QiVLYXrC2TW_fdcZp57MgMB
 
 
-'''
-PIP
-
-1. pip librarys to install karne liye use
-2. jis libary ka use nahi usko uninstall bhi kar sakte
-
-Python 3.8.3
-'''
-
-import camelcase
-import math
-
-# math. 
-val = camelcase.CamelCase()
-txt = 'hello python team how ara you'
-
-print(val.hump(txt))
-
+# Keywords in Python
 
 '''
-Pip Questions and Excercise
+Operators keywords:
+    logical operator:
+        and
+        or
+        not
+    Membership operator:
+        is: use to check the valeus of 2 varables are same and both vaeables id or address also will be same
+        is not
+        id: this use to check the address of varable
+    Identity operator keywodrs:
+        in: 
+        not in
+    None: null value
 
-1. https://pip.pypa.io/en/stable/user_guide/
-2. Khud se kuch librarys ko install karke use karna and at the last unko unistall kardena
-3. 
+For Fetching Files or librarys
+import: use to get any libaray or file in your existing file
+    sysn: import json
+from: use to get single object from libaray
+    syn: import read from filehandling 
+as: to create a alias in imporat library like as: 
+    syn: import json as j
+
+Function kyewords:
+def: use use define function
+lambda: sort handed funcation which define the function in silge line
+return: use return a function response
+
+Delete:
+del: use to delete anythink: variable , fun, class
+
+These keyworks use to creat condtions
+if
+elif
+else
+
+These keywords use to create error handling
+try
+except
+filnally
+raise: it use to raise an error in condtion or loop or functon
+else
+
+Booleasn
+Ture
+Flase
+
+Loop keywords
+while
+for
+else
+break
+continue
+
+Varableas:
+global
+nonlocal
+
+pass: it use in condtion loop function class to only declare them but don't execute there body
+
 '''

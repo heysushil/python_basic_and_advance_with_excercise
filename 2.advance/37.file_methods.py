@@ -11,29 +11,29 @@
 # 5. Tips and Trick for Development: https://www.youtube.com/watch?v=vPL6ODrfcwI&list=PLK6wiPavf7QiVLYXrC2TW_fdcZp57MgMB
 
 
-'''
-PIP
+# file handling
+f = open('demo.py','r')
+# open()
 
-1. pip librarys to install karne liye use
-2. jis libary ka use nahi usko uninstall bhi kar sakte
+# f.read(): only you will read the file
+# f.readable(): get true of flase depends file is readable or not
+# f.readline(): at once give single line form file
+# f.readlines(): gave int number which define how many lines you will want to read. gave lines in form of list
 
-Python 3.8.3
-'''
+# Write in file methods
+# f.write(): it hepls to store a line in file
+# f.writable(): it providw true or flase depends on file permission. if file is changable then you will get true otherwise fals
+# f.writelines(): wants to write multiple linews in file then you need to use this method with passing the values as list formate.
 
-import camelcase
-import math
-
-# math. 
-val = camelcase.CamelCase()
-txt = 'hello python team how ara you'
-
-print(val.hump(txt))
+# f.clos(): best preactice is to close the file at the last.
 
 
-'''
-Pip Questions and Excercise
 
-1. https://pip.pypa.io/en/stable/user_guide/
-2. Khud se kuch librarys ko install karke use karna and at the last unko unistall kardena
-3. 
-'''
+# f.detach()
+# f.fileno()
+# f.flush()
+# f.seek()
+# f.seekable()
+# f.tell()
+# f.truncate()
+
