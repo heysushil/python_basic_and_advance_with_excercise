@@ -61,6 +61,9 @@ copy vs view methos
 matixarray = np.array([[1,2,3,4,5],[1,2,3,4,5],[1,2,3,4,5],[1,2,3,4,5],[1,2,3,4,5]], ndmin=5)
 print('Find the shap of matixarray: ',matixarray.shape)
 
+newarr = np.array([1,2,3,4,5,6,7,8,9,10,11,12])
+# print('shap: ',newarr.reshape())
+
 '''
 Matix of 3*3
 
