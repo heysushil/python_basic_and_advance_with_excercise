@@ -1,77 +1,34 @@
 '''
-Python
-Editor => vs code
-
-
-Python: 
-    Basic
-        varaibels: ye vairable yahi kisibhi value ko store karke 
+PHP:
+    Basic:
+        Variabels
         datatypes
-            list:
-                append
-                pop
-                remove
-            tupel
-            dict
-            set
-            str
-                split
-                rev
-                index
-                len
-                count
-
-                Regex 
-        operators
-        conditions
-        loops
-        function       
-    Advance
-        class: calculation
-        object
+        operatores
+        condtion
+        loop
         function
 
-    File Handling
-        create : open
-        modfiy 
-        delter
-        move
+    Advance:
+        class: OOP's
+        File Handile
 
-    Progammming Lnagaunge:
-        coding
-
-    Database
-        query likhte hain
-        database:
-            table
-                new entry
-                modify
-                delete
-                insert
+    Database:
+        MySQL:
+            create databse
+            create table
+            select
+            where
 
 
-Array:
-    1D = index array => List and Tuple (Seq)
-    2D = associative array => Dict (Maping)
-    3D
-
-    searing => fifo / lifo
-    sorting => bubble / heap
-'''
-
-print("Hello Vivek")
-
-
-
-'''
 Web Desining:
+    HTML
+    CSS
+    JavaScript
 
-    Photoshop:
-        Layout: PSD File
+Web Development:
+    PHP: chaukidar
 
-    HTML: 
-    CSS:
-        Bootstrap: ye css ki libaray hai
-    JavaScript:
-        JQuery: ye javascript ke libarya hai    
+Databse:
+    MySQL
+
 '''
